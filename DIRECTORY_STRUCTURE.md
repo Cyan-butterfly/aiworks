@@ -20,7 +20,7 @@
 - 📁 **data**/
   - 📁 **cleaned data**/
   - 📁 **data documentation**/
-    - 📦 **data documentation template.md**
+    - 📝 **data documentation template.md**
   - 📁 **data visualization**/
     - 🖼️ **example chart.png**
   - 📁 **raw data**/
@@ -29,33 +29,33 @@
   - 🐳 **Dockerfile**
 - 📁 **documentation**/
   - 📁 **meeting notes**/
-    - 📦 **meeting notes template.md**
+    - 📝 **meeting notes template.md**
   - 📁 **project plan**/
-    - 📦 **project plan template.md**
+    - 📝 **project plan template.md**
   - 📁 **user manual**/
-    - 📦 **user manual template.md**
+    - 📝 **user manual template.md**
 - 📁 **environment**/
   - 📁 **environment configuration instructions**/
-    - 📦 **configuration instructions.md**
-  - 📦 **requirements.txt**
+    - 📝 **configuration instructions.md**
+  - 📝 **requirements.txt**
 - 📁 **evaluation report**/
   - 📁 **comprehensive analysis report**/
-    - 📦 **comprehensive analysis report template.md**
+    - 📝 **comprehensive analysis report template.md**
   - 📁 **metrics report**/
-    - 📦 **metrics report template.md**
+    - 📝 **metrics report template.md**
   - 📁 **visualization charts**/
     - 🖼️ **example chart.png**
 - 📁 **experiment records**/
   - 📁 **experiment 1**/
-    - 📦 **experiment 1 record.md**
+    - 📝 **experiment 1 record.md**
   - 📁 **experiment 2**/
-    - 📦 **experiment 2 record.md**
+    - 📝 **experiment 2 record.md**
   - 📁 **experiment summary**/
-    - 📦 **experiment summary template.md**
+    - 📝 **experiment summary template.md**
 - 📁 **feature engineering**/
   - 📁 **feature construction**/
   - 📁 **feature description document**/
-    - 📦 **feature description template.md**
+    - 📝 **feature description template.md**
   - 📁 **feature selection**/
 - 📁 **logs**/
 - 📁 **model**/
@@ -79,8 +79,8 @@
     - 📽 **example PPT.pptx**
 - 📁 **tests**/
   - 🐍 **test_data_loader.py**
-- 📦 **.gitignore**
+- ❓ **.gitignore**
 - ⚙️ **.pre-commit-config.yaml**
-- 📦 **DIRECTORY_STRUCTURE.md**
+- 📝 **DIRECTORY_STRUCTURE.md**
 - 🐍 **main.py**
-- 📦 **README.md**
+- 📝 **README.md**

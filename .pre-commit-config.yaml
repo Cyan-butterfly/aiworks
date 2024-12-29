@@ -9,4 +9,5 @@ repos:
         pass_filenames: false
         # 即使没有匹配到文件，也会运行
         always_run: true
+         # 让 pre-commit 在钩子修改文件后自动继续
         stages: [commit]
